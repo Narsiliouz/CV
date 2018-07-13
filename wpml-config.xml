@@ -1,0 +1,22 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_zincy-lite">
+    <key name="gallery_image_code" />
+    <key name="custom_js" />
+    <key name="header_text" />
+    <key name="footer_text" />
+    <key name="read_more" />
+    <key name="call_to_action_text" />
+    <key name="call_to_action_readmore" />
+    <key name="call_to_action_link" />
+    <key name="feature_post_one_icon" />
+    <key name="feature_post_two_icon" />
+    <key name="feature_post_three_icon" />
+    <key name="feature_read_more" />
+    <key name="blog_above_callaction_title" />
+    <key name="blog_above_callaction_desc" />
+    <key name="view_all_text" />
+    <key name="slider_callto_action_text" />
+</key>
+</admin-texts>
+</wpml-config>
